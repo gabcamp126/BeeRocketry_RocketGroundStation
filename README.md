@@ -1,11 +1,3 @@
-<div align="center"> 
-<p style="width=150px;">
-    <img src="https://github.com/btnrv/BeeRocketry_RocketGroundStation/blob/main/Assets/logo.png" width="150"/>
-</p>
-
-# BeeRocketry 2024 Rocket Ground Station
-</div>
-
 ## Overview
 
 BeeRocketry 2024 Rocket Ground Station is a ground station written in Python designed to work with Python 3.10+. This code is specifically written for the Teknofest Rocket Competition 2024. Note that Python 3.12 has not been tested and is probably not supported by most libraries used in this project.
@@ -59,12 +51,7 @@ Once you have confirmed that your packet format is correct:
 - In the application, select the appropriate COM devices from the dropdown menus as well as the respective baudrates.
 - Press the `Start` button to begin communication and graph visualization.
 
-## Demonstrations
 
-<p align="center">
-    <img src="https://github.com/btnrv/BeeRocketry_RocketGroundStation/blob/main/Assets/ss1.png" style="width:45%; margin:10px;" />
-    <img src="https://github.com/btnrv/BeeRocketry_RocketGroundStation/blob/main/Assets/ss2.png" style="width:45%; margin:10px;" />
-</p>
 
 ## Known Limitations
 
