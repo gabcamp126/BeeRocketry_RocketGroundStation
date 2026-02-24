@@ -19,21 +19,7 @@ BeeRocketry 2024 Rocket Ground Station is a ground station written in Python des
 - [Known Limitations](#known-limitations)
 - [License and Disclaimers](#license-and-disclaimers)
 
-## Installation
-```bash
-# Check the python version by running the following
-# Python 3.10.x is suggested
-python
-exit()
 
-# Clone and navigate to the repository
-git clone https://github.com/btnrv/BeeRocketry_RocketGroundStation.git
-
-cd BeeRocketry_RocketGroundStation
-
-# Run the installation script to install necessary libraries from requirements.txt
-install.bat
-```
 
 ## Usage
 
